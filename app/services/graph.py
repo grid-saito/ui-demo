@@ -3,7 +3,7 @@ from graph.app.modules.chains.results_data_processing import chain as result_dat
 from graph.app.modules.chains.demand_data_processing import chain as demand_data_processing_chain
 from graph.app.modules.chains.compatibility_check_chain import chain as compatibility_check_chain
 from graph.app.modules.chains.suggested_actions_chain import chain as suggested_actions_chain
-from modules.data_models.external_source import CompatibilityCheckResultOutput
+from graph.app.modules.data_models.external_source import CompatibilityCheckResultOutput
 from typing import List
 
 

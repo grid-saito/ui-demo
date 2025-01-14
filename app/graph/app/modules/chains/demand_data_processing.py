@@ -1,7 +1,7 @@
 from langchain.agents import AgentExecutor, create_openai_tools_agent
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.callbacks.streamlit.streamlit_callback_handler import StreamlitCallbackHandler
-from modules.models.langchain_azure import langchain_azure_model
+from ..models.langchain_azure import langchain_azure_model
 from tools.DemandDataToolkit import DemandDataToolkit
 import streamlit as st
 

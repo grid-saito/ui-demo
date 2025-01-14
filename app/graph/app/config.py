@@ -1,10 +1,9 @@
 import os
-
 from dotenv import load_dotenv
 
 load_dotenv(verbose=True, dotenv_path=".env")
 
-DEFAULT_OPENAI_MODEL = "gpt-4o-mini"
+DEFAULT_OPENAI_MODEL = "gpt-4o"
 DEFAULT_GEMINI_MODEL = "gemini-1.5-flash"
 
 # Azure OpenAI
