@@ -1,0 +1,12 @@
+langchain_core
+plotly
+streamlit
+streamlit_float
+pandas
+langchain_openai
+streamlit
+folium
+streamlit_folium
+geocoder
+geopy
+matplotlib
