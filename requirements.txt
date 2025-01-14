@@ -59,7 +59,6 @@ google-auth==2.36.0
 google-auth-httplib2==0.2.0
 google-generativeai==0.8.3
 googleapis-common-protos==1.66.0
--e git+https://gitlab.com/grid-devs/llm/optjob_llm_client.git@ae85fa60d4abfa25446688d3fe0af0fdbf0f6f5f#egg=graph&subdirectory=../../../app/graph
 grpcio==1.68.1
 grpcio-status==1.68.1
 h11==0.14.0
